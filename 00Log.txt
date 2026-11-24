@@ -11,6 +11,7 @@ Here's the basic set up so you don't have to type it every time
 </html>
 
 <a href="page" class="button">text</a>
+<link rel="stylesheet" href="style.css">
 
 Annie - 8:23pm to 10:06pm
     homescreen html
