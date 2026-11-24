@@ -26,7 +26,7 @@ Annie - 8:23pm to 10:06pm
     password
     financial info
 
-Annie - 10:15pm to 
+Annie - 10:15pm to 10:45pm
     button fixes
     basic css
     link stylesheet
