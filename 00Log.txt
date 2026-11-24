@@ -10,6 +10,8 @@ Here's the basic set up so you don't have to type it every time
 	</body>
 </html>
 
+<a href="page" class="button">text</a>
+
 Annie - 8:23pm to 10:06pm
     homescreen html
     login html
@@ -22,3 +24,6 @@ Annie - 8:23pm to 10:06pm
     username
     password
     financial info
+
+Annie - 10:15pm to 
+    button fixes
