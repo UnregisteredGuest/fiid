@@ -1,11 +1,12 @@
 AUTHORS: Annie Snyder & Elliott Clark
 Here's the CSS Plan:
-Center EVERYTHING
+
+DONE Center EVERYTHING
 user_settings in flexbox for differences
 Nav bar - anchored to top of the page
 img tag - universal? ids?
 food map - hover effects/clickable?
-general classes/basic stuff
+DONE general classes/basic stuff
 add gif and sound to 404 page
 
 HEY DUMBASS HERE'S THE FIX FOR THE BUTTONS: <a href="user_settings.html" class="btn">Return to Settings</a>
