@@ -30,3 +30,6 @@ Annie - 10:15pm to 10:45pm
     button fixes
     basic css
     link stylesheet
+
+Elliott - i forgor about this log ?:????-11:20pm ish Nov 25
+    Top bar implemenation (not yet global)
