@@ -1,16 +1,15 @@
 body {
     background-color: #d6c8b1;
-    
 }
 
-p{
+p {
     font-family: Noto Sans, sans-serif;
     color: #402615;
     text-align: center;
     font-size: 16px;
 }
 
-h1{
+h1 {
     font-family: Noto Serif, serif;
     color: #7d5e3c;
     text-align: center;
@@ -19,4 +18,39 @@ h1{
 
 .button{
     /*ELLIOTT PUT THE BUTTON STYLES HERE*/
+}
+
+.topbar {
+    background-color: #878679;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.topbar .links a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topbar .login a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topbar .login {
+    padding: 2px;
+}
+
+.topbar a:hover {
+    background-color: #7d5e3c;
+    color: black;
 }
