@@ -2,11 +2,16 @@ Here's the basic set up so you don't have to type it every time
 <!DOCTYPE html>
 <!--AUTHOR: [name]-->
 <html>
-	<head>
-		<title></title>
-	</head>
+    <head>
+        <title>[title]</title>
+        <script src="jquery-4.1.0.min.js"></script>
+        <script src="jquery_scripts.js"></script>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
 	<body>
-		
+        <div id="nav"></div>
+
 	</body>
 </html>
 

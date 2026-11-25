@@ -2,6 +2,7 @@ body {
     background-color: white;
     margin: 0;
     padding: 0;
+    padding-top: 47px;
 }
 
 p {
@@ -59,4 +60,10 @@ h1 {
         font-size: 17px;
         background-color: #D6EEC9;
     }
+}
+
+.404 img {
+    display: block;
+    margin: auto;
+    width: 50%;
 }
