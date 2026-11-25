@@ -1,5 +1,7 @@
 body {
     background-color: #d6c8b1;
+    margin: 0;
+    padding: 0;
 }
 
 p {
@@ -26,31 +28,34 @@ h1 {
     position: fixed;
     top: 0;
     width: 100%;
-}
-
-.topbar .links a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-}
-
-.topbar .login a {
-    float: right;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 12px 14px;
-    text-decoration: none;
-    font-size: 17px;
-}
-
-.topbar .login {
-    padding: 2px;
-}
-
-.topbar a:hover {
-    background-color: #7d5e3c;
-    color: black;
+    .title a{
+        font-family: Noto Serif, serif;
+        font-weight: 600;
+        float: left;
+        text-align: center;
+        padding: 10px 12px;
+        text-decoration: none;
+        font-size: 23px;
+    }
+    .links a {
+        float: right;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+    .links a:hover {
+        background-color: #7d5e3c;
+        color: white;
+    }
+    .login a {
+        float: right;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+        background-color: #7d5e3c;
+    }
 }
