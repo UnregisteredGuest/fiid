@@ -1,12 +1,12 @@
 body {
-    background-color: #d6c8b1;
+    background-color: white;
     margin: 0;
     padding: 0;
 }
 
 p {
     font-family: Noto Sans, sans-serif;
-    color: #402615;
+    color: black;
     text-align: center;
     font-size: 16px;
 }
@@ -23,7 +23,7 @@ h1 {
 }
 
 .topbar {
-    background-color: #878679;
+    background-color: #1C3210;
     overflow: hidden;
     position: fixed;
     top: 0;
@@ -32,6 +32,7 @@ h1 {
         font-family: Noto Serif, serif;
         font-weight: 600;
         float: left;
+        color: white;
         text-align: center;
         padding: 10px 12px;
         text-decoration: none;
@@ -39,15 +40,15 @@ h1 {
     }
     .links a {
         float: right;
-        color: black;
+        color: white;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
         font-size: 17px;
     }
     .links a:hover {
-        background-color: #7d5e3c;
-        color: white;
+        background-color: #D6EEC9;
+        color: black;
     }
     .login a {
         float: right;
@@ -56,6 +57,6 @@ h1 {
         padding: 14px 16px;
         text-decoration: none;
         font-size: 17px;
-        background-color: #7d5e3c;
+        background-color: #D6EEC9;
     }
 }
